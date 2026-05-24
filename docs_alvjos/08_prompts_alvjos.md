@@ -25,3 +25,6 @@ El caso que elegiste es el ciberataque que tuvo FICOBA a finales de enero del a�
 En el punto 1 resumen escribiste: 
 A finales del mes de enero del año 2026, un usuario/s con malas intenciones mediante la obtencion de las credenciales de acceso de funcionarios publicos pudo entrar a la base de datos del Registro nacional de cuentas bancarias de Francia "FICOBA" (Fichier National des Comptes Bancaires et Assimilés), este usuario/s logro obtener la informacion de 1.2 millones de cuentas, consiguiendo numeros de cuentas internacionales, nombres y apellidos de los titulares, direcciones y en algunos casos el numeros de identificacion fiscal del titular.
 Ahora, en el Punto 5 Responsabilidades elegiste como tres actores el atacante, la FICOBA y el funcionario publico que le robaron la credencial, y solamente te falta una responsabilidad civil del atacante y la responsabilidad penal y administrativa del funcionario.
+
+
+para el punto 2 al momento de escoger las 4 normas, la primera que elegiste fue la ley 21.459 de delitos informaticos en chile, la segunda fue la ley 19.628 sobre la proteccion de la vida privada en chile, le tercera decidiste tomar el reglamento general de protección de datos de la union europea, pero te falta una cuarta normativa, asi que decidiste buscar una internacional

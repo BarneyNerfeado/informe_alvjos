@@ -1,6 +1,6 @@
 # Tipificacion de Delitos
 
-- ***Articulo 2, Inciso 1 y 3 - Acceso ilicito:*** 
+- #### ***Articulo 2, Inciso 1 y 3 - Acceso ilicito:*** 
 Castiga al que, sin autorizacion acceda a un sistema informatico, vulnerando las medidas de seguridad.
 
 **Mapeo de la accion:**
@@ -8,7 +8,7 @@ El atacante al utilizar las credenciales robadas de un funcionario publico vulne
 
 <br>
 
-- ***Articulo 6 - Receptacion de datos informaticos:***
+- #### ***Articulo 6 - Receptacion de datos informaticos:***
 Penaliza a quien comercialice, transfiera o almacene datos obtenidos de forma ilicita.
 
 **Mapeo de la accion:**
@@ -16,7 +16,7 @@ Si el atacante descargo los 1,2 millones de registros para su posterior venta en
 
 <br>
 
-- ***Articulo 8 - Abuso de dispositivos:***
+- #### ***Articulo 8 - Abuso de dispositivos:***
 Obtener herramientas, programas o claves diseñadas para cometer delitos informaticos puede ser sancionado con carcel y multa.
 
 **Mapeo de la accion:**
