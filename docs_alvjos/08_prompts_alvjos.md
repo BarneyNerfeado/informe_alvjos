@@ -31,3 +31,14 @@ para el punto 2 al momento de escoger las 4 normas, la primera que elegiste fue 
 
 
 al momento de terminar el punto 6 te diste cuenta que en la rubrica habia un punto que no habias visto que decia "Distingue datos personales de datos sensibles" asi que te pusiste a hacerlo
+
+
+ibas a hacer la conclusion para terminar el trabajo y mandarlo pero te das cuenta que te falta todo el punto 4
+asi que utilizas como ejes:
+1. Alcance y juridiccion
+2. Sancion
+3. Sujeto Regulado
+Y como marcos:
+1. Ley 21.459
+2. Ley 19.628
+3. GDPR
