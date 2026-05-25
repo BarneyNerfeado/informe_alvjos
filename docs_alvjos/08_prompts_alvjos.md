@@ -28,3 +28,6 @@ Ahora, en el Punto 5 Responsabilidades elegiste como tres actores el atacante, l
 
 
 para el punto 2 al momento de escoger las 4 normas, la primera que elegiste fue la ley 21.459 de delitos informaticos en chile, la segunda fue la ley 19.628 sobre la proteccion de la vida privada en chile, le tercera decidiste tomar el reglamento general de protección de datos de la union europea, pero te falta una cuarta normativa, asi que decidiste buscar una internacional
+
+
+al momento de terminar el punto 6 te diste cuenta que en la rubrica habia un punto que no habias visto que decia "Distingue datos personales de datos sensibles" asi que te pusiste a hacerlo
