@@ -42,3 +42,6 @@ Y como marcos:
 1. Ley 21.459
 2. Ley 19.628
 3. GDPR
+
+
+para terminar el informe solamente te queda poner las recomendacion de seguridad para el caso en el punto 7, una de las recomendaciones que pensaste es el principio del minino privilegio
